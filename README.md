@@ -18,7 +18,7 @@ Lead team members to project to successful end.
 <table style="border-size:0px">
   <tr >
   <td style="border: none;"><img src="https://clojure.org/images/clojure-logo-120b.png" width="90"> clojure </td>  
-    <td style="border: none;"><img src="hhttps://golang.org/lib/godoc/images/footer-gopher.jpg" width="90"> Golang</td> 
+    <td style="border: none;"><img src="https://golang.org/lib/godoc/images/footer-gopher.jpg" width="90"> Golang</td> 
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>
     <td style="border: none;"><img class="lazy" src="https://banner2.cleanpng.com/20180411/kjq/kisspng-solidity-ethereum-blockchain-smart-contract-progra-blockchain-5ace81fe0c9514.6143250015234831340515.jpg" width="60"> Solidity </td>
@@ -60,7 +60,6 @@ Lead team members to project to successful end.
 
 ### Github Stats:
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fiott248&show_icons=true&theme=radical)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fiott248&show_icons=true&theme=radical) 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fiott248&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,Dockerfile,shell,ruby) 
 
